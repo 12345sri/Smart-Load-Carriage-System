@@ -41,5 +41,9 @@ The project report is included in this repository.
 - Smart mobility tracking
 - Embedded hardware integration
 
+## Contribution
+
+This project was completed as part of a team. My contributions included dataset clustering, data distribution analysis, algorithm implementation, and model testing/training.
+
 ## Author
 Sriporna Biswas
